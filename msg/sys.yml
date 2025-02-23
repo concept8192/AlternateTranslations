@@ -1,0 +1,33 @@
+# === Limit Form Text === #
+
+- id: 0x4E8D
+  en: "Sonic Rave"
+
+- id: 0x4EFE
+  en: "Sonic Rave"
+
+- id: 0x4E8F
+  en: "Last Arcanum"
+
+- id: 0x4F01
+  en: "Last Arcanum"
+
+- id: 0x4E93
+  en: "Infinity"
+
+- id: 0x4EF6
+  en: "Infinity"
+
+# === Wisdom Form Text === #
+
+- id: 0x0654
+  en: "Air Slide"
+
+- id: 0x0656
+  en: "Air Slide LV2"
+
+- id: 0x0658
+  en: "Air Slide LV3"
+
+- id: 0x065A
+  en: "Air Slide MAX"
